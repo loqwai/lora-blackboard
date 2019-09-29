@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/roy/.platformio/penv/bin:/Users/roy/.platformio/penv:/usr/local/opt/curl/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/Users/roy/Projects/go/bin:/Users/roy/.cargo/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
